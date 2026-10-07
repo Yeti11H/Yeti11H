@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm ooohyg 👋
 
-<!--
-**Yeti11H/Yeti11H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer · AI Agent Engineer
 
-Here are some ideas to get you started:
+I build reliable backend systems and explore Agent Runtime, Harness architecture, and distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus includes Java backend development, AI Agent engineering, RAG, Tool Calling, and high-availability distributed systems.
+
+> 关注如何让 Agent 在真实环境中安全、稳定、可恢复地完成任务。
+
+- Java Backend Development
+- AI Agent / Harness
+- RAG & Tool Calling
+- Distributed Systems & High Availability
+
+## Connect
+
+- Email: [zeleny66picek@hotmail.com](mailto:zeleny66picek@hotmail.com)
+- GitHub: [@Yeti11H](https://github.com/Yeti11H)
