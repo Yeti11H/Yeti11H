@@ -75,7 +75,7 @@ A Java 21 Agent execution framework designed around **composition and explicit c
 
 ### `hyg-cache` · Multi-level Cache Orchestration
 
-<a href="https://github.com/Yeti11H/hyg-cache">
+<a href="https://github.com/Yeti11H/ooohyg-cache">
   <img align="right" width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=Yeti11H&repo=hyg-cache&theme=transparent&hide_border=true" alt="hyg-cache repository card" />
 </a>
 
