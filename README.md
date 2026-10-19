@@ -73,10 +73,10 @@ A Java 21 Agent execution framework designed around **composition and explicit c
 
 <br clear="right"/>
 
-### `hyg-cache` · Multi-level Cache Orchestration
+### `ooohyg-cache` · Multi-level Cache Orchestration
 
 <a href="https://github.com/Yeti11H/ooohyg-cache">
-  <img align="right" width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=Yeti11H&repo=hyg-cache&theme=transparent&hide_border=true" alt="hyg-cache repository card" />
+  <img align="right" width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=Yeti11H&repo=ooohyg-cache&theme=transparent&hide_border=true" alt="ooohyg-cache repository card" />
 </a>
 
 A pluggable Java cache orchestration component focused on **consistency, concurrency and failure recovery**.
@@ -99,7 +99,7 @@ The implementation focuses on the details that usually cause production incident
 
 The project is inspired by JetCache's design ideas but does not reuse its source code.
 
-[View the project →](https://github.com/Yeti11H/hyg-cache)
+[View the project →](https://github.com/Yeti11H/ooohyg-cache)
 
 <br clear="right"/>
 
