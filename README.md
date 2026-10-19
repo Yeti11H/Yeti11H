@@ -75,14 +75,18 @@ A Java 21 Agent execution framework designed around **composition and explicit c
 
 ### `hyg-cache` · Multi-level Cache Orchestration
 
-A learning-oriented cache component inspired by the design ideas of JetCache.
+<a href="https://github.com/Yeti11H/hyg-cache">
+  <img align="right" width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=Yeti11H&repo=hyg-cache&theme=transparent&hide_border=true" alt="hyg-cache repository card" />
+</a>
+
+A pluggable Java cache orchestration component focused on **consistency, concurrency and failure recovery**.
 
 ```text
 L1 Local Cache  →  L2 Remote Cache  →  L3 Data Source
  Caffeine          Redis               Loader
 ```
 
-The project focuses on the details that usually cause production incidents:
+The implementation focuses on the details that usually cause production incidents:
 
 - Cache Aside read and write paths;
 - L1/L2 backfill and invalidation broadcast;
@@ -90,11 +94,14 @@ The project focuses on the details that usually cause production incidents:
 - SingleFlight request coalescing for hot keys;
 - empty-value caching and Bloom filter protection;
 - TTL jitter and failure fallback;
-- pluggable read/write strategies, serializers, metrics and invalidation buses.
+- pluggable read/write strategies, serializers, metrics and invalidation buses;
+- zero Spring dependency in the core orchestration layer.
 
-The project is a study implementation. It does not reuse JetCache source code.
+The project is inspired by JetCache's design ideas but does not reuse its source code.
 
-The design README will be published with the repository after the first runnable release.
+[View the project →](https://github.com/Yeti11H/hyg-cache)
+
+<br clear="right"/>
 
 ### Keep · AI Training Assistant Backend
 
